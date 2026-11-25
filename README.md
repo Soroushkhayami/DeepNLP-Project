@@ -8,7 +8,7 @@ The goal is to build and evaluate a system that answers questions written in nat
 
 | Full name | Student ID |
 | --- | --- |
-| [Full name] | [s360701] |
-| [Full name] | [s360563] |
-| [Full name] | [s360997] |
-| [Soroush Khayyami] | [s358823] |
+| Gabriele Chiaverina | s360701 |
+| Eva Mandarano | s360563 |
+| Roberto Fernando Mahamalimage | s360997 |
+| Soroush Khayyami | s358823 |
