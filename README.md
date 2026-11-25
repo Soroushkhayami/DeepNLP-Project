@@ -12,3 +12,8 @@ The goal is to build and evaluate a system that answers questions written in nat
 | Eva Mandarano | s360563 |
 | Roberto Fernando Mahamalimage | s360997 |
 | Soroush Khayyami | s358823 |
+
+## References
+
+- [Research paper (ACL Anthology)](https://aclanthology.org/2026.acl-long.1185/)
+- [S2G-RAG source code (GitHub)](https://github.com/nianaaa/S2G-RAG)
